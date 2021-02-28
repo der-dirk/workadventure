@@ -170,12 +170,30 @@
  "tileheight":32,
  "tilesets":[
         {
+         "columns":8,
          "firstgid":1,
-         "source":"floor_tileset.json"
+         "image":"floortileset.png",
+         "imageheight":256,
+         "imagewidth":256,
+         "margin":0,
+         "name":"floor_tileset",
+         "spacing":0,
+         "tilecount":64,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":16,
          "firstgid":65,
-         "source":"office_tileset.json"
+         "image":"tilesets_deviant_milkian_1.png",
+         "imageheight":512,
+         "imagewidth":512,
+         "margin":0,
+         "name":"office_tileset",
+         "spacing":0,
+         "tilecount":256,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
