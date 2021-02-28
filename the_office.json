@@ -41,7 +41,7 @@
             "height": 19,
             "id": 12,
             "name": "Windows3",
-            "opacity": 1,
+            "opacity": 0.4,
             "type": "tilelayer",
             "visible": true,
             "width": 38,
