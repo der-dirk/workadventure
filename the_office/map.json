@@ -9,7 +9,7 @@
      "export":
         {
          "format":"json",
-         "target":"the_office.json"
+         "target":"map.json"
         }
     },
  "height":31,
@@ -28,7 +28,7 @@
                  "value":"bbox"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":42,
          "x":0,
          "y":0
@@ -46,7 +46,7 @@
                  "value":"https:\/\/fun-damentals.com\/wp-content\/uploads\/2016\/08\/a-relax.jpg"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":42,
          "x":0,
          "y":0
@@ -64,7 +64,7 @@
                  "value":"https:\/\/www.multivu.com\/players\/English\/8486151-boston-scientific-launches-vercise-primary-cell-gevia-dbs-systems\/image\/TheVerciseDirecti_1548361145416-HR.jpg"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":42,
          "x":0,
          "y":0
@@ -82,7 +82,7 @@
                  "value":"https:\/\/www.researchgate.net\/profile\/Miguel-Martin-Landrove\/publication\/233899177\/figure\/fig8\/AS:340739742552075@1458250094000\/Figura-210-Software-de-planificacion-iPlan-Stereotaxy-de-BrainLab-28.png"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":42,
          "x":0,
          "y":0
@@ -100,7 +100,7 @@
                  "value":"https:\/\/kalender-365.de\/"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":42,
          "x":0,
          "y":0
@@ -118,7 +118,7 @@
                  "value":"https:\/\/teambuilding.com\/blog\/virtual-coffee-break"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":42,
          "x":0,
          "y":0
@@ -154,7 +154,7 @@
                  "value":"https:\/\/play.workadventu.re\/_\/global\/der-dirk.github.io\/workadventure\/the_office\/map.json#start"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":42,
          "x":0,
          "y":0
@@ -172,7 +172,7 @@
                  "value":"https:\/\/play.workadventu.re\/_\/global\/der-dirk.github.io\/workadventure\/the_office\/map.json#outside"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":42,
          "x":0,
          "y":0
@@ -208,7 +208,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":42,
          "x":0,
          "y":0
@@ -220,7 +220,7 @@
          "name":"start",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":42,
          "x":0,
          "y":0
@@ -232,7 +232,7 @@
          "name":"Floor",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":42,
          "x":0,
          "y":0
@@ -244,7 +244,7 @@
          "name":"Interior",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":42,
          "x":0,
          "y":0
@@ -256,7 +256,7 @@
          "name":"Topping",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":42,
          "x":0,
          "y":0
@@ -268,7 +268,7 @@
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -279,7 +279,7 @@
          "name":"Overlay",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":42,
          "x":0,
          "y":0
